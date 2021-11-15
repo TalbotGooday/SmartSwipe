@@ -1,5 +1,5 @@
 # SmartSwipe
-
+[![](https://jitpack.io/v/TalbotGooday/SmartSwipe.svg)](https://jitpack.io/#TalbotGooday/SmartSwipe)
 ![](https://img.shields.io/badge/license-Apache--2.0-blue.svg)
 ![](https://img.shields.io/badge/minSDK-14+-orange.svg)
 ![](https://img.shields.io/badge/aarSize-100KB-blue.svg)
@@ -11,7 +11,7 @@ latest version| [![Download](https://api.bintray.com/packages/hellobilly/android
 
 
 
-[中文文档，更详尽](https://luckybilly.github.io/SmartSwipe-tutorial/)
+[Chinese docs, more detailed, but Chinese](https://luckybilly.github.io/SmartSwipe-tutorial/)
 
 A smart swipe android library helps you make View (and Activity) swipes easier.
 
